@@ -1,0 +1,15 @@
+Comandos basicos linha no terminal
+
+ 
+1) como abrir o terminal?
+R = apertar o windons + cmd
+2) dir = listar. Traz a lista de diretorios contidos na pasta 
+3) cd (Change Directore) = para navegação
+cd .. = retroceder uma pasta
+4) cls = limpar a tela
+5) mkdir = criar uma pasta
+6) echo = grava informações em um arquivo
+7) ls -a = - a lista arquivos ocultos
+8) mv = Move arquivos entre repositorios ex.: Feijoada.md ./receitas/
+
+
